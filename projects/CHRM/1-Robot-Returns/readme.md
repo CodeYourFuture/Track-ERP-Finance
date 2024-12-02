@@ -15,7 +15,7 @@
 
 ###### Task:
 <!--{{<objectives>}}-->
-1. Map current process 
-2. Configure basic accounts
-3. Test simple return posting
+- [ ] Map current process 
+- [ ] Configure basic accounts
+- [ ] Test simple return posting
 <!--{{</objectives>}}-->
