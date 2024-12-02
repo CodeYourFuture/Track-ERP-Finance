@@ -1,7 +1,7 @@
 # SAP Navigation & Requirements Gathering
 
-<!--<{{objectives}}>>-->
+<!--<{{objectives}}>-->
 - [ ] Navigate the SAP interface 
 - [ ] Document requirements
 - [ ] Map business processes to SAP functions
-<!--<{{/objectives}}>>-->
+<!--<{{/objectives}}>-->
