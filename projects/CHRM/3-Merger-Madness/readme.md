@@ -3,6 +3,8 @@
 > "We need to handle delicate optical parts differently!"
 
 ## Task:
-1. Add new return types
-2. Configure special handling
-3. Update approval flows
+<!--{{<objectives>}}-->
+- [ ] Add new return types
+- [ ] Configure special handling
+- [ ] Update approval flows
+<!--{{</objectives>}}-->
