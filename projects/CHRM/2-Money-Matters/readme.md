@@ -7,4 +7,4 @@
 - [ ] Configure bulk processing rules
 - [ ] Set up auto-credit thresholds
 - [ ] Create validation checks
-<!--{{<objectives>}}-->
+<!--{{</objectives>}}-->
